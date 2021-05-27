@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.4.1.1
+
+* Remove node-sass dependency
+
 ## 3.4.0
 
 * Bootstrap rubygem now depends on SassC instead of Sass.
